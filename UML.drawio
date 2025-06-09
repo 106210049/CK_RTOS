@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WOUxdwWNY8Me1MqAquvu" name="Page-2">
-    <mxGraphModel dx="1024" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,134 +159,125 @@
         <mxCell id="aLahBTwcC9OZCy3FyseT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-4" target="aLahBTwcC9OZCy3FyseT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-4" value="Khởi tạo Serial, CAN" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="aLahBTwcC9OZCy3FyseT-4" value="Khởi tạo Serial" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="360" y="155" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-6" target="aLahBTwcC9OZCy3FyseT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-6" value="Khởi tạo Mutex" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="aLahBTwcC9OZCy3FyseT-6" value="Khởi tạo Mutex, Semaphore, Queue" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="360" y="235" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-8" target="aLahBTwcC9OZCy3FyseT-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-8" value="Khởi tạo Sensor và các Tasks (Rain, Light, Distance)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="315" width="160" height="40" as="geometry" />
+        <mxCell id="aLahBTwcC9OZCy3FyseT-8" value="Khởi tạo đối tượng CANReciever, ServoController, AlertHandler" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="315.23" y="320" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-10" target="aLahBTwcC9OZCy3FyseT-11">
+        <mxCell id="aLahBTwcC9OZCy3FyseT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-10" target="aLahBTwcC9OZCy3FyseT-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-10" value="Khởi tạo Task CAN" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="395" width="120" height="40" as="geometry" />
+        <mxCell id="aLahBTwcC9OZCy3FyseT-10" value="Khởi tạo CAN" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-11" value="Bắt đầu lập lịch" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="475" width="120" height="40" as="geometry" />
+          <mxGeometry x="360.23" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="417.73" y="310.24" width="5" height="509.54" as="geometry" />
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="417.73" y="515" as="sourcePoint" />
-            <mxPoint x="417.73" y="565" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-14" value="Rain Task (taskRain)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="140" y="595" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="199.7" y="565" as="sourcePoint" />
-            <mxPoint x="199.7" y="595" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.7" y="565" as="sourcePoint" />
-            <mxPoint x="339.7" y="595" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-17" value="Light Task (taskLight)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="280" y="595" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="499.70000000000005" y="565" as="sourcePoint" />
-            <mxPoint x="499.70000000000005" y="595" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-19" value="Distance Task(taskDist)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="595" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="639.7" y="565" as="sourcePoint" />
-            <mxPoint x="639.7" y="595" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-21" value="Can Transmit Task (taskCAN)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="580" y="595" width="120" height="40" as="geometry" />
+          <mxGeometry x="417.73" y="390" width="5" height="509.54" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="415" width="5" height="509.54" as="geometry" />
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200.01999999999998" y="635" as="sourcePoint" />
-            <mxPoint x="200.01999999999998" y="665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340.02" y="635" as="sourcePoint" />
-            <mxPoint x="340.02" y="665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500.02" y="635" as="sourcePoint" />
-            <mxPoint x="500.02" y="665" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aLahBTwcC9OZCy3FyseT-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640.0200000000001" y="635" as="sourcePoint" />
-            <mxPoint x="640.0200000000001" y="665" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="417.5" y="494.76" width="5" height="509.54" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-27" value="FreeRTOS song song" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="120" y="525" width="600" height="180" as="geometry" />
+          <mxGeometry x="120" y="604.76" width="600" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.482;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300.3299999999999" y="-4.759999999999991" as="sourcePoint" />
+            <mxPoint x="299.99" y="38.960000000000036" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479.70000000000005" y="40" as="sourcePoint" />
+            <mxPoint x="479.70000000000005" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-19" value="AlertHandler Task (taskAlert)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry x="420" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480.02" y="110" as="sourcePoint" />
+            <mxPoint x="480.02" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="299.7" y="40" as="sourcePoint" />
+            <mxPoint x="299.7" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-17" value="ServoController Task (taskServo)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry x="240" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300.02" y="110" as="sourcePoint" />
+            <mxPoint x="300.02" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.69999999999999" y="40" as="sourcePoint" />
+            <mxPoint x="119.69999999999999" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-14" value="CANReciever Task (taskCAN)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry x="60" y="70" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="aLahBTwcC9OZCy3FyseT-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120.01999999999998" y="110" as="sourcePoint" />
+            <mxPoint x="120.01999999999998" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="774.6300000000001" as="sourcePoint" />
-            <mxPoint x="760" y="775" as="targetPoint" />
+            <mxPoint x="480" y="854.3900000000001" as="sourcePoint" />
+            <mxPoint x="760" y="854.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="775" as="sourcePoint" />
-            <mxPoint x="760" y="455" as="targetPoint" />
+            <mxPoint x="760" y="854.76" as="sourcePoint" />
+            <mxPoint x="760" y="534.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="455" as="sourcePoint" />
-            <mxPoint x="420" y="455" as="targetPoint" />
+            <mxPoint x="760" y="534.76" as="sourcePoint" />
+            <mxPoint x="420" y="534.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.264;exitY=0.495;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="417.73" y="685" as="sourcePoint" />
-            <mxPoint x="417.73" y="755" as="targetPoint" />
+            <mxPoint x="417.73" y="764.76" as="sourcePoint" />
+            <mxPoint x="417.73" y="834.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-32" value="Hệ thống vận hành liên tục" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="755" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="834.76" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aLahBTwcC9OZCy3FyseT-33" value="Begin" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aLahBTwcC9OZCy3FyseT-35" target="aLahBTwcC9OZCy3FyseT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aLahBTwcC9OZCy3FyseT-35" value="Khởi tạo task(taskCAN, taskServo, taskAlert)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="480" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
