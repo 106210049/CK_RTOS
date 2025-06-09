@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r69pPZIrI05LkGqUaNVk" name="ESP32_Recv">
-    <mxGraphModel dx="1742" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,8 +486,11 @@
             <mxPoint x="399.83000000000004" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4q4VRd5_IpGpVTSKdz5I-4" value="Truy cập Web/REST" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="4q4VRd5_IpGpVTSKdz5I-4" value="Truy cập Web/REST" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fontFamily=Times New Roman;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="810" width="480" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4q4VRd5_IpGpVTSKdz5I-5" value="FreeRTOS" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="720" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
