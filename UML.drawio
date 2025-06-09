@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r69pPZIrI05LkGqUaNVk" name="ESP32_Recv">
-    <mxGraphModel dx="1147" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -435,7 +435,7 @@
         <mxCell id="czi8ieFSVj6ilpyWUkMg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="czi8ieFSVj6ilpyWUkMg-10" target="JMPU6QEpZhegojrSpq37-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="czi8ieFSVj6ilpyWUkMg-10" value="&#39;IP address/events&#39; - Nhận dữ liệu SSE" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="czi8ieFSVj6ilpyWUkMg-10" value="Truy cập Web/App" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4q4VRd5_IpGpVTSKdz5I-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;exitX=-0.015;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMPU6QEpZhegojrSpq37-22">
