@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r69pPZIrI05LkGqUaNVk" name="ESP32_Recv">
-    <mxGraphModel dx="607" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,14 +438,14 @@
         <mxCell id="czi8ieFSVj6ilpyWUkMg-10" value="Truy cập Web/App" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4q4VRd5_IpGpVTSKdz5I-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;exitX=-0.015;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JMPU6QEpZhegojrSpq37-22">
+        <mxCell id="4q4VRd5_IpGpVTSKdz5I-3" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=17;exitX=-0.015;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JMPU6QEpZhegojrSpq37-22" target="czi8ieFSVj6ilpyWUkMg-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.83000000000004" y="649" as="sourcePoint" />
             <mxPoint x="399.83000000000004" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4q4VRd5_IpGpVTSKdz5I-5" value="FreeRTOS" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="720" height="150" as="geometry" />
+          <mxGeometry x="40" y="490" width="720" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
