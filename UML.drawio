@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="r69pPZIrI05LkGqUaNVk" name="ESP32_Recv">
-    <mxGraphModel dx="1393" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="397" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -459,7 +459,7 @@
         <mxCell id="czi8ieFSVj6ilpyWUkMg-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="czi8ieFSVj6ilpyWUkMg-3" target="JMPU6QEpZhegojrSpq37-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="czi8ieFSVj6ilpyWUkMg-3" value="Khởi tạo task (taskReadDHT, taskCANRecv, taskGPS, taskCollect, taskSend)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="czi8ieFSVj6ilpyWUkMg-3" value="Khởi tạo task (ReadDHT, CANRecv, GPS, Collect, Send)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#FFFFC0;strokeColor=#FF0000;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="240" y="270" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="czi8ieFSVj6ilpyWUkMg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=17;" edge="1" parent="1" source="czi8ieFSVj6ilpyWUkMg-7" target="czi8ieFSVj6ilpyWUkMg-8">
