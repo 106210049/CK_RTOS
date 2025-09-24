@@ -207,7 +207,7 @@
           <mxGeometry x="40" y="40" width="760" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="3cGzjwHWMtda04c4JXpd-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;User&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3cGzjwHWMtda04c4JXpd-19">
-          <mxGeometry width="220" height="1000" as="geometry" />
+          <mxGeometry width="220" height="880" as="geometry" />
         </mxCell>
         <mxCell id="AHASLqv7f3Xwpc-mEQi2-4" value="&lt;font&gt;Turn on&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" parent="3cGzjwHWMtda04c4JXpd-3" vertex="1">
           <mxGeometry x="40" y="80" width="160" height="40" as="geometry" />
@@ -228,7 +228,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3cGzjwHWMtda04c4JXpd-4" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3cGzjwHWMtda04c4JXpd-19">
-          <mxGeometry x="220" width="340" height="1000" as="geometry" />
+          <mxGeometry x="220" width="340" height="880" as="geometry" />
         </mxCell>
         <mxCell id="3cGzjwHWMtda04c4JXpd-17" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3cGzjwHWMtda04c4JXpd-4">
           <mxGeometry x="120" y="270" width="60" height="30" as="geometry" />
@@ -243,7 +243,7 @@
           <mxGeometry x="60" y="700" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3cGzjwHWMtda04c4JXpd-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;NTP Server&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3cGzjwHWMtda04c4JXpd-19">
-          <mxGeometry x="560" width="200" height="1000" as="geometry" />
+          <mxGeometry x="560" width="200" height="880" as="geometry" />
         </mxCell>
         <mxCell id="bIOeV48XJfCDIEhAlFY5-16" value="Reciver Request" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" parent="3cGzjwHWMtda04c4JXpd-5" vertex="1">
           <mxGeometry x="20" y="550" width="160" height="40" as="geometry" />
