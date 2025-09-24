@@ -782,11 +782,14 @@
         <mxCell id="r0ZD99zjdeKyoE_D7FqS-3" value="&lt;font&gt;Count up&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="LHPGZfBpTZwQ6gVDDh5I-6">
           <mxGeometry x="60" y="280" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0sX_qlq-hrOabizgdgfX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LHPGZfBpTZwQ6gVDDh5I-6" source="0sX_qlq-hrOabizgdgfX-2" target="0sX_qlq-hrOabizgdgfX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0sX_qlq-hrOabizgdgfX-2" value="&lt;font&gt;Detect button press&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="LHPGZfBpTZwQ6gVDDh5I-6">
           <mxGeometry x="60" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0sX_qlq-hrOabizgdgfX-3" value="&lt;font&gt;Stop Count&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="LHPGZfBpTZwQ6gVDDh5I-6">
-          <mxGeometry x="60" y="430" width="160" height="40" as="geometry" />
+          <mxGeometry x="60" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LHPGZfBpTZwQ6gVDDh5I-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LHPGZfBpTZwQ6gVDDh5I-2" target="LHPGZfBpTZwQ6gVDDh5I-16">
           <mxGeometry relative="1" as="geometry" />
