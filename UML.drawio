@@ -325,11 +325,6 @@
         <mxCell id="G5IjegDglF0VZ_-QbYBA-19" value="&lt;table&gt;&lt;tbody&gt;&lt;tr data-end=&quot;815&quot; data-start=&quot;770&quot;&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;815&quot; data-start=&quot;783&quot;&gt;Update system time (internal RTC)&lt;table style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(19, 19, 19));&quot;&gt;&lt;tbody&gt;&lt;tr data-end=&quot;866&quot; data-start=&quot;816&quot;&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;829&quot; data-start=&quot;816&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="750" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G5IjegDglF0VZ_-QbYBA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="G5IjegDglF0VZ_-QbYBA-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="930" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G5IjegDglF0VZ_-QbYBA-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="40" width="760" height="1000" as="geometry" />
         </mxCell>
@@ -345,7 +340,7 @@
         <mxCell id="G5IjegDglF0VZ_-QbYBA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="G5IjegDglF0VZ_-QbYBA-25" source="G5IjegDglF0VZ_-QbYBA-27" target="G5IjegDglF0VZ_-QbYBA-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G5IjegDglF0VZ_-QbYBA-29" value="View time display" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="G5IjegDglF0VZ_-QbYBA-25">
+        <mxCell id="G5IjegDglF0VZ_-QbYBA-29" value="View infor display" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="G5IjegDglF0VZ_-QbYBA-25">
           <mxGeometry x="40" y="870" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G5IjegDglF0VZ_-QbYBA-30" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=18;" vertex="1" parent="G5IjegDglF0VZ_-QbYBA-25">
