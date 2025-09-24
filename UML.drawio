@@ -176,6 +176,9 @@
         <mxCell id="bIOeV48XJfCDIEhAlFY5-5" value="Get GMT Time" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="325" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bIOeV48XJfCDIEhAlFY5-7" value="Get GMT Time" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
