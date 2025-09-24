@@ -235,10 +235,10 @@
           <mxGeometry x="600" y="10" width="200" height="990" as="geometry" />
         </mxCell>
         <mxCell id="bIOeV48XJfCDIEhAlFY5-16" value="Reciver Request" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" parent="3cGzjwHWMtda04c4JXpd-5" vertex="1">
-          <mxGeometry x="120" y="550" width="160" height="40" as="geometry" />
+          <mxGeometry x="20" y="550" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bIOeV48XJfCDIEhAlFY5-18" value="Respond with accurate UTC time" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" parent="3cGzjwHWMtda04c4JXpd-5" vertex="1">
-          <mxGeometry x="120" y="630" width="160" height="40" as="geometry" />
+          <mxGeometry x="20" y="630" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bIOeV48XJfCDIEhAlFY5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3cGzjwHWMtda04c4JXpd-5" source="bIOeV48XJfCDIEhAlFY5-16" target="bIOeV48XJfCDIEhAlFY5-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
