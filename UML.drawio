@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8jVxvTiHSpHEyHnl4OT1" name="Activity Watch Time Diagram">
-    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,13 +157,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="295" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="295" />
+              <mxPoint x="520" y="290" />
               <mxPoint x="520" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AHASLqv7f3Xwpc-mEQi2-8" value="Successful" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="340" y="270" width="120" height="50" as="geometry" />
+        <mxCell id="AHASLqv7f3Xwpc-mEQi2-8" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="360" y="270" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bIOeV48XJfCDIEhAlFY5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bIOeV48XJfCDIEhAlFY5-5" target="bIOeV48XJfCDIEhAlFY5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3DdnA--LwGh3zueWISqp" name="Activity Day of Week Diagram">
-    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,13 +281,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="295" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="295" />
+              <mxPoint x="520" y="290" />
               <mxPoint x="520" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6dAPsX7pQPRo5b3p1s39-6" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="370" y="270" width="60" height="50" as="geometry" />
+          <mxGeometry x="370" y="270" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6dAPsX7pQPRo5b3p1s39-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6dAPsX7pQPRo5b3p1s39-8" target="6dAPsX7pQPRo5b3p1s39-36">
           <mxGeometry relative="1" as="geometry" />
@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eyEI0W17E4QYOxGVw4Q1" name="Activity Year Diagram">
-    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
