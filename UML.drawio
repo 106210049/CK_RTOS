@@ -720,6 +720,9 @@
         <mxCell id="R4wJ6f0Ff6aAJ7xC8Si8-3" value="&lt;font&gt;Init DHT11&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="XyC0VxWxj2nFmsZjjxKe-29">
           <mxGeometry x="60" y="160" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="R4wJ6f0Ff6aAJ7xC8Si8-5" value="&lt;font&gt;Read Sensor DHT11&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="XyC0VxWxj2nFmsZjjxKe-29">
+          <mxGeometry x="60" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="R4wJ6f0Ff6aAJ7xC8Si8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XyC0VxWxj2nFmsZjjxKe-22" target="R4wJ6f0Ff6aAJ7xC8Si8-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
