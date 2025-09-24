@@ -693,7 +693,7 @@
             <mxPoint x="-100" y="640.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XyC0VxWxj2nFmsZjjxKe-28" value="&lt;font&gt;Press Button x2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="XyC0VxWxj2nFmsZjjxKe-29">
+        <mxCell id="XyC0VxWxj2nFmsZjjxKe-28" value="&lt;font&gt;Press Button 1 x4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="XyC0VxWxj2nFmsZjjxKe-29">
           <mxGeometry x="-180" y="480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XyC0VxWxj2nFmsZjjxKe-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XyC0VxWxj2nFmsZjjxKe-29" source="XyC0VxWxj2nFmsZjjxKe-33" target="XyC0VxWxj2nFmsZjjxKe-34">
