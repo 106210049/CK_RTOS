@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3DdnA--LwGh3zueWISqp" name="Activity Day of Week Diagram">
-    <mxGraphModel dx="2605" dy="1403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
         <mxCell id="6dAPsX7pQPRo5b3p1s39-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6dAPsX7pQPRo5b3p1s39-21" source="6dAPsX7pQPRo5b3p1s39-25" target="6dAPsX7pQPRo5b3p1s39-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6dAPsX7pQPRo5b3p1s39-28" value="&lt;font&gt;Press Button x1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="6dAPsX7pQPRo5b3p1s39-21">
+        <mxCell id="6dAPsX7pQPRo5b3p1s39-28" value="&lt;font&gt;Press Button 1 x1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="6dAPsX7pQPRo5b3p1s39-21">
           <mxGeometry x="40" y="800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6dAPsX7pQPRo5b3p1s39-29" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6dAPsX7pQPRo5b3p1s39-20">
@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V7UFQnwCQf6_MjTBT2Yd" name="Activity Day Month Diagram">
-    <mxGraphModel dx="2084" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="485" dy="261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -486,7 +486,7 @@
         <mxCell id="G5IjegDglF0VZ_-QbYBA-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="G5IjegDglF0VZ_-QbYBA-25" source="G5IjegDglF0VZ_-QbYBA-29" target="G5IjegDglF0VZ_-QbYBA-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fd5xnOJimjpWKRvkRD7O-1" value="&lt;font&gt;Press Button x2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="G5IjegDglF0VZ_-QbYBA-25">
+        <mxCell id="fd5xnOJimjpWKRvkRD7O-1" value="&lt;font&gt;Press Button 1 x2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="G5IjegDglF0VZ_-QbYBA-25">
           <mxGeometry x="40" y="800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G5IjegDglF0VZ_-QbYBA-32" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="G5IjegDglF0VZ_-QbYBA-24">
@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eyEI0W17E4QYOxGVw4Q1" name="Activity Year Diagram">
-    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,7 +620,7 @@
         <mxCell id="4rCkmRjsixX02kxLFbIh-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4rCkmRjsixX02kxLFbIh-61" source="4rCkmRjsixX02kxLFbIh-65" target="4rCkmRjsixX02kxLFbIh-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4rCkmRjsixX02kxLFbIh-68" value="&lt;font&gt;Press Button x3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="4rCkmRjsixX02kxLFbIh-61">
+        <mxCell id="4rCkmRjsixX02kxLFbIh-68" value="&lt;font&gt;Press Button 1 x3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="4rCkmRjsixX02kxLFbIh-61">
           <mxGeometry x="40" y="800" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rCkmRjsixX02kxLFbIh-69" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4rCkmRjsixX02kxLFbIh-60">
