@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4" pages="8">
   <diagram name="Use case diagram" id="Pj13aEyQDoYXjgAknNS8">
     <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eyEI0W17E4QYOxGVw4Q1" name="Activity Year Diagram">
-    <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,13 +549,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="295" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="295" />
+              <mxPoint x="520" y="290" />
               <mxPoint x="520" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4rCkmRjsixX02kxLFbIh-46" value="Successful" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="340" y="270" width="120" height="50" as="geometry" />
+        <mxCell id="4rCkmRjsixX02kxLFbIh-46" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4rCkmRjsixX02kxLFbIh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4rCkmRjsixX02kxLFbIh-48" target="4rCkmRjsixX02kxLFbIh-76">
           <mxGeometry relative="1" as="geometry" />
@@ -630,7 +630,7 @@
           <mxGeometry x="120" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4rCkmRjsixX02kxLFbIh-71" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4rCkmRjsixX02kxLFbIh-69">
-          <mxGeometry x="190" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="165" y="220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4rCkmRjsixX02kxLFbIh-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4rCkmRjsixX02kxLFbIh-69" source="4rCkmRjsixX02kxLFbIh-73" target="4rCkmRjsixX02kxLFbIh-74">
           <mxGeometry relative="1" as="geometry" />
@@ -736,7 +736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyMPNo-niM_iqGcxLlXe" name="Activity Count up Diagram">
-    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,6 +844,14 @@
         <mxCell id="0sX_qlq-hrOabizgdgfX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0sX_qlq-hrOabizgdgfX-10" target="0sX_qlq-hrOabizgdgfX-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2nq08g-RBOBPiS7eKkQq" name="Activity Alarm Diagram">
+    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
