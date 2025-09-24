@@ -168,8 +168,8 @@
         <mxCell id="AHASLqv7f3Xwpc-mEQi2-8" value="Successful" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bIOeV48XJfCDIEhAlFY5-5" value="Get GMT Time" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="540" y="510" width="160" height="40" as="geometry" />
+        <mxCell id="bIOeV48XJfCDIEhAlFY5-5" value="Request to NTP Server" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bIOeV48XJfCDIEhAlFY5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bIOeV48XJfCDIEhAlFY5-7" target="bIOeV48XJfCDIEhAlFY5-12">
           <mxGeometry relative="1" as="geometry" />
