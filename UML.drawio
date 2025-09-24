@@ -1159,7 +1159,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a0pKugXpBQ3ryGBBShWb" name="Page-10">
-    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1187,7 +1187,7 @@
         <mxCell id="zwm6TpmZNM_pj51izz4h-8" value="View infor display" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-1">
           <mxGeometry x="40" y="280" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwm6TpmZNM_pj51izz4h-9" value="Press Button 2 x 1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-1">
+        <mxCell id="zwm6TpmZNM_pj51izz4h-9" value="Press Button 1 x 1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-1">
           <mxGeometry x="40" y="360" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zwm6TpmZNM_pj51izz4h-1" source="zwm6TpmZNM_pj51izz4h-11" target="zwm6TpmZNM_pj51izz4h-12">
@@ -1217,7 +1217,7 @@
         <mxCell id="zwm6TpmZNM_pj51izz4h-18" value="&lt;font&gt;Detect button press&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-15">
           <mxGeometry x="60" y="200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwm6TpmZNM_pj51izz4h-19" value="&lt;font&gt;Count up&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-15">
+        <mxCell id="zwm6TpmZNM_pj51izz4h-19" value="&lt;font&gt;Set Minutes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-15">
           <mxGeometry x="60" y="280" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zwm6TpmZNM_pj51izz4h-15" source="zwm6TpmZNM_pj51izz4h-21" target="zwm6TpmZNM_pj51izz4h-22">
@@ -1226,7 +1226,7 @@
         <mxCell id="zwm6TpmZNM_pj51izz4h-21" value="&lt;font&gt;Detect button press&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-15">
           <mxGeometry x="60" y="360" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zwm6TpmZNM_pj51izz4h-22" value="&lt;font&gt;Stop Count&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-15">
+        <mxCell id="zwm6TpmZNM_pj51izz4h-22" value="&lt;font&gt;Incease Minutes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="zwm6TpmZNM_pj51izz4h-15">
           <mxGeometry x="60" y="440" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zwm6TpmZNM_pj51izz4h-15" source="zwm6TpmZNM_pj51izz4h-24" target="zwm6TpmZNM_pj51izz4h-25">
