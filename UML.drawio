@@ -758,6 +758,9 @@
         <mxCell id="LHPGZfBpTZwQ6gVDDh5I-9" value="&lt;font&gt;Press Button 2 x 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="LHPGZfBpTZwQ6gVDDh5I-1">
           <mxGeometry x="40" y="200" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0sX_qlq-hrOabizgdgfX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LHPGZfBpTZwQ6gVDDh5I-1" source="r0ZD99zjdeKyoE_D7FqS-5" target="LHPGZfBpTZwQ6gVDDh5I-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r0ZD99zjdeKyoE_D7FqS-5" value="View infor display" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="LHPGZfBpTZwQ6gVDDh5I-1">
           <mxGeometry x="40" y="280" width="160" height="40" as="geometry" />
         </mxCell>
