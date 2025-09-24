@@ -529,7 +529,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eyEI0W17E4QYOxGVw4Q1" name="Activity Year Diagram">
-    <mxGraphModel dx="595" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -710,6 +710,9 @@
         </mxCell>
         <mxCell id="XyC0VxWxj2nFmsZjjxKe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XyC0VxWxj2nFmsZjjxKe-29" source="XyC0VxWxj2nFmsZjjxKe-34" target="XyC0VxWxj2nFmsZjjxKe-25">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R4wJ6f0Ff6aAJ7xC8Si8-1" value="&lt;font&gt;Read DHT11 Sensor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="XyC0VxWxj2nFmsZjjxKe-29">
+          <mxGeometry x="60" y="80" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
