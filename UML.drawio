@@ -137,12 +137,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8jVxvTiHSpHEyHnl4OT1" name="Activity Diagram">
-    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AHASLqv7f3Xwpc-mEQi2-2" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="345" y="1000" width="30" height="30" as="geometry" />
+          <mxGeometry x="185" y="960" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AHASLqv7f3Xwpc-mEQi2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="AHASLqv7f3Xwpc-mEQi2-3" target="AHASLqv7f3Xwpc-mEQi2-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -225,7 +225,10 @@
         <mxCell id="AahfM5DeBYbxYwTcAC6d-1" value="Display Hour &amp;amp; Minutes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="320" y="880" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AahfM5DeBYbxYwTcAC6d-3" value="Display Hour &amp;amp; Minutes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="3cGzjwHWMtda04c4JXpd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AahfM5DeBYbxYwTcAC6d-3" target="AHASLqv7f3Xwpc-mEQi2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AahfM5DeBYbxYwTcAC6d-3" value="View time display" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="880" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
