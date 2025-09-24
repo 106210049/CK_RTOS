@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8jVxvTiHSpHEyHnl4OT1" name="Activity Diagram">
-    <mxGraphModel dx="1603" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,6 +239,12 @@
         </mxCell>
         <mxCell id="3cGzjwHWMtda04c4JXpd-4" value="System(ESP32-C3)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="10" width="340" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="3cGzjwHWMtda04c4JXpd-17" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3cGzjwHWMtda04c4JXpd-4">
+          <mxGeometry x="120" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cGzjwHWMtda04c4JXpd-18" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3cGzjwHWMtda04c4JXpd-4">
+          <mxGeometry x="190" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3cGzjwHWMtda04c4JXpd-5" value="NTP Server" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="10" width="200" height="990" as="geometry" />
