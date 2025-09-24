@@ -848,7 +848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2nq08g-RBOBPiS7eKkQq" name="Activity Alarm Diagram">
-    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -972,10 +972,10 @@
         <mxCell id="WvcWXZzFa0ntf8qMcmVR-16" value="Set Minutes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="vf9Lk0l78_-iHU5jDEcE-26">
           <mxGeometry x="60" y="1070" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WvcWXZzFa0ntf8qMcmVR-20" value="Increase Hour" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="vf9Lk0l78_-iHU5jDEcE-26">
+        <mxCell id="WvcWXZzFa0ntf8qMcmVR-20" value="Increase Minutes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="vf9Lk0l78_-iHU5jDEcE-26">
           <mxGeometry x="60" y="1150" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WvcWXZzFa0ntf8qMcmVR-21" value="Decrease Hour" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="vf9Lk0l78_-iHU5jDEcE-26">
+        <mxCell id="WvcWXZzFa0ntf8qMcmVR-21" value="Decrease Minutes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" vertex="1" parent="vf9Lk0l78_-iHU5jDEcE-26">
           <mxGeometry x="60" y="1230" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j7zf6UcKsaGy4qdk4KzS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="vf9Lk0l78_-iHU5jDEcE-26" source="WvcWXZzFa0ntf8qMcmVR-29" target="j7zf6UcKsaGy4qdk4KzS-1">
