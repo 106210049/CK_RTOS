@@ -110,7 +110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Gdn-iJM29ZcLBYz81XI" name="Page-2">
-    <mxGraphModel dx="974" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1661" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,8 +218,8 @@
         <mxCell id="MQdsR-dyNlB-ee7rQMRy-31" value="Enter Message" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MQdsR-dyNlB-ee7rQMRy-35" value="Repeat" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="600" width="60" height="30" as="geometry" />
+        <mxCell id="MQdsR-dyNlB-ee7rQMRy-35" value="Repeat" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
