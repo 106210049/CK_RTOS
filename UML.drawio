@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3DdnA--LwGh3zueWISqp" name="Activity Day of Week Diagram">
-    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,6 +387,17 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="360" y="790" as="sourcePoint" />
             <mxPoint x="240" y="828.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GCboyMjEarEs6t0PzRE-17" edge="1" parent="6dAPsX7pQPRo5b3p1s39-20" source="6dAPsX7pQPRo5b3p1s39-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6dAPsX7pQPRo5b3p1s39-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCboyMjEarEs6t0PzRE-18" edge="1" parent="6dAPsX7pQPRo5b3p1s39-20" source="6dAPsX7pQPRo5b3p1s39-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="6dAPsX7pQPRo5b3p1s39-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="375" y="910" />
+              <mxPoint x="67" y="910" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7GCboyMjEarEs6t0PzRE-2" edge="1" parent="1" source="6dAPsX7pQPRo5b3p1s39-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.741;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" target="7GCboyMjEarEs6t0PzRE-1">
