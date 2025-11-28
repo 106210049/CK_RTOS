@@ -357,10 +357,10 @@
           <mxGeometry height="20" width="60" x="190" y="230" as="geometry" />
         </mxCell>
         <mxCell id="4UMh1dEN97WtlTHBS3ia-1" parent="6dAPsX7pQPRo5b3p1s39-29" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Wifi connected ?" vertex="1">
-          <mxGeometry height="20" width="100" x="40" y="200" as="geometry" />
+          <mxGeometry height="30" width="76.88" x="29.990000000000002" y="200" as="geometry" />
         </mxCell>
         <mxCell id="6dAPsX7pQPRo5b3p1s39-34" parent="6dAPsX7pQPRo5b3p1s39-29" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" value="Switch to Display Day of Week" vertex="1">
-          <mxGeometry height="40" width="160" x="60.01" y="840" as="geometry" />
+          <mxGeometry height="40" width="150" x="50" y="840" as="geometry" />
         </mxCell>
         <mxCell id="7GCboyMjEarEs6t0PzRE-1" parent="6dAPsX7pQPRo5b3p1s39-29" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" value="" vertex="1">
           <mxGeometry height="80" width="6.25" x="106.86999999999999" y="740.63" as="geometry" />
