@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3DdnA--LwGh3zueWISqp" name="Activity Day of Week Diagram">
-    <mxGraphModel dx="719" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,6 +376,18 @@
         </mxCell>
         <mxCell id="6dAPsX7pQPRo5b3p1s39-38" edge="1" parent="6dAPsX7pQPRo5b3p1s39-35" source="6dAPsX7pQPRo5b3p1s39-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6dAPsX7pQPRo5b3p1s39-37" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7GCboyMjEarEs6t0PzRE-13" edge="1" parent="6dAPsX7pQPRo5b3p1s39-20" source="7GCboyMjEarEs6t0PzRE-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.06;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" target="6dAPsX7pQPRo5b3p1s39-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="790" as="sourcePoint" />
+            <mxPoint x="220" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7GCboyMjEarEs6t0PzRE-15" edge="1" parent="6dAPsX7pQPRo5b3p1s39-20" source="7GCboyMjEarEs6t0PzRE-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=-0.157;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;" target="6dAPsX7pQPRo5b3p1s39-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="790" as="sourcePoint" />
+            <mxPoint x="240" y="828.63" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7GCboyMjEarEs6t0PzRE-2" edge="1" parent="1" source="6dAPsX7pQPRo5b3p1s39-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.741;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" target="7GCboyMjEarEs6t0PzRE-1">
           <mxGeometry relative="1" as="geometry" />
