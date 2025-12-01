@@ -1653,10 +1653,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KRtJzBAFdA7yPAfoPonb" name="Queue">
-    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dkNDm51IzbOJkuzRPzNP-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="220" x="270" y="110" as="geometry" />
+        </mxCell>
         <mxCell id="dkNDm51IzbOJkuzRPzNP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="20" x="280" y="120" as="geometry" />
         </mxCell>
@@ -1686,6 +1689,12 @@
         </mxCell>
         <mxCell id="dkNDm51IzbOJkuzRPzNP-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="20" x="460" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dkNDm51IzbOJkuzRPzNP-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dkNDm51IzbOJkuzRPzNP-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
