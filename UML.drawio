@@ -1810,7 +1810,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VTcKj1VCpYOtzCrQGae6" name="Mutex">
-    <mxGraphModel dx="902" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1289" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1848,13 +1848,13 @@
           <mxGeometry height="30" width="130" x="195" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Kj8PDVD6bY5bzw82SVpk-1" parent="1" style="text;whiteSpace=wrap;html=1;align=center;rotation=-35;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;xSemaphoreTake&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="355" y="200" as="geometry" />
+          <mxGeometry height="30" width="140" x="340" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Kj8PDVD6bY5bzw82SVpk-2" parent="1" style="text;whiteSpace=wrap;html=1;align=center;rotation=-35;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;xSemaphoreGive&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="325.00177826491074" y="170.00038105676657" as="geometry" />
         </mxCell>
         <mxCell id="Kj8PDVD6bY5bzw82SVpk-4" parent="1" style="text;whiteSpace=wrap;html=1;align=center;rotation=35;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;xSemaphoreTake&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="320.00428964549513" y="319.9976312089081" as="geometry" />
+          <mxGeometry height="30" width="140" x="325.00428964549513" y="317.4376312089081" as="geometry" />
         </mxCell>
         <mxCell id="Kj8PDVD6bY5bzw82SVpk-5" parent="1" style="text;whiteSpace=wrap;html=1;align=center;rotation=35;" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 16px;&quot;&gt;xSemaphoreGive&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="340.00428964549513" y="287.4376312089081" as="geometry" />
