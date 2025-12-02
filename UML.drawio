@@ -952,7 +952,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PKlN9hk9zFcdwyjAudrN-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;User&lt;/font&gt;" vertex="1">
-          <mxGeometry height="800" width="260" x="80" y="280" as="geometry" />
+          <mxGeometry height="360" width="260" x="80" y="280" as="geometry" />
         </mxCell>
         <mxCell id="PKlN9hk9zFcdwyjAudrN-2" parent="PKlN9hk9zFcdwyjAudrN-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" value="&lt;font&gt;Scan &amp;amp; Connect Wifi + Bluetooth&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="60" y="80" as="geometry" />
@@ -973,7 +973,7 @@
           <mxGeometry height="40" width="160" x="60" y="240" as="geometry" />
         </mxCell>
         <mxCell id="PKlN9hk9zFcdwyjAudrN-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="800" width="340" x="340" y="280" as="geometry" />
+          <mxGeometry height="360" width="340" x="340" y="280" as="geometry" />
         </mxCell>
         <mxCell id="PKlN9hk9zFcdwyjAudrN-13" edge="1" parent="PKlN9hk9zFcdwyjAudrN-12" source="PKlN9hk9zFcdwyjAudrN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PKlN9hk9zFcdwyjAudrN-16" value="">
           <mxGeometry relative="1" as="geometry" />
