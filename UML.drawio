@@ -947,7 +947,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HyMPNo-niM_iqGcxLlXe" name="Activity Count up Diagram">
-    <mxGraphModel dx="1043" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="596" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1006,7 +1006,7 @@
           <mxGeometry height="20" width="36.87" x="284.33" y="520" as="geometry" />
         </mxCell>
         <mxCell id="dmpsyf5yIDxKNEgeGv6l-29" parent="LHPGZfBpTZwQ6gVDDh5I-1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="No" vertex="1">
-          <mxGeometry height="20" width="36.87" x="188.51999999999998" y="520" as="geometry" />
+          <mxGeometry height="20" width="36.87" x="200.99999999999997" y="510" as="geometry" />
         </mxCell>
         <mxCell id="dmpsyf5yIDxKNEgeGv6l-30" parent="LHPGZfBpTZwQ6gVDDh5I-1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Yes" vertex="1">
           <mxGeometry height="20" width="36.87" x="281.14" y="650" as="geometry" />
@@ -1037,6 +1037,22 @@
         </mxCell>
         <mxCell id="dmpsyf5yIDxKNEgeGv6l-7" parent="LHPGZfBpTZwQ6gVDDh5I-1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Press Button 2 x1&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="95" x="189.32999999999998" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7bS3pRZ5bwAgkGv333QR-9" parent="LHPGZfBpTZwQ6gVDDh5I-1" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="80" width="5" x="116" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="7bS3pRZ5bwAgkGv333QR-10" edge="1" parent="LHPGZfBpTZwQ6gVDDh5I-1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="151" y="500" as="sourcePoint" />
+            <mxPoint x="201" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7bS3pRZ5bwAgkGv333QR-12" edge="1" parent="LHPGZfBpTZwQ6gVDDh5I-1" source="dmpsyf5yIDxKNEgeGv6l-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.215;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" target="7bS3pRZ5bwAgkGv333QR-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LHPGZfBpTZwQ6gVDDh5I-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" vertex="1">
           <mxGeometry height="800" width="300" x="420" y="80" as="geometry" />
