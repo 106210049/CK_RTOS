@@ -679,6 +679,9 @@
         <mxCell id="O32NBXiyCa_-jII4WqOB-3" parent="4rCkmRjsixX02kxLFbIh-69" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Yes" vertex="1">
           <mxGeometry height="20" width="36.87" x="30" y="800" as="geometry" />
         </mxCell>
+        <mxCell id="bUp8aqrFqO7Efybh8PNb-1" parent="4rCkmRjsixX02kxLFbIh-69" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" value="Wifi connected ?" vertex="1">
+          <mxGeometry height="30" width="96.87" x="40" y="200" as="geometry" />
+        </mxCell>
         <mxCell id="4rCkmRjsixX02kxLFbIh-75" parent="4rCkmRjsixX02kxLFbIh-60" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;NTP Server&lt;/font&gt;" vertex="1">
           <mxGeometry height="960" width="200" x="560" as="geometry" />
         </mxCell>
