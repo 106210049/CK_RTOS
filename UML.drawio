@@ -2167,7 +2167,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hHyK7BE9AmuzX6a3LaoO" name="Software timer">
-    <mxGraphModel dx="679" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2320,6 +2320,9 @@
         </mxCell>
         <mxCell id="4BQaNZXl3SnmbCQOijIz-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Alarm Mgr Task&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="150" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="4BQaNZXl3SnmbCQOijIz-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Time (s)" vertex="1">
+          <mxGeometry height="30" width="60" x="485" y="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
