@@ -1622,7 +1622,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-19" parent="zwm6TpmZNM_pj51izz4h-15" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" value="&lt;font&gt;Switch to Count Down Mode&lt;/font&gt;" vertex="1">
-          <mxGeometry height="40" width="160" x="60" y="280" as="geometry" />
+          <mxGeometry height="40" width="160" x="60" y="240" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-11" parent="zwm6TpmZNM_pj51izz4h-15" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=18;" value="Press Button 2" vertex="1">
           <mxGeometry height="40" width="160" x="-180" y="480" as="geometry" />
@@ -1813,6 +1813,9 @@
               <mxPoint x="260" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iajzd-k-f1KWQfKRBurU-3" edge="1" parent="1" source="iajzd-k-f1KWQfKRBurU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zwm6TpmZNM_pj51izz4h-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
