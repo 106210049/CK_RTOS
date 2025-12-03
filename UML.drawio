@@ -1634,7 +1634,7 @@
           <mxGeometry height="40" width="60" x="235" y="610" as="geometry" />
         </mxCell>
         <mxCell id="iajzd-k-f1KWQfKRBurU-23" parent="zwm6TpmZNM_pj51izz4h-1" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Press Button 1&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="180" y="560" as="geometry" />
+          <mxGeometry height="40" width="140" x="135" y="580" as="geometry" />
         </mxCell>
         <mxCell id="iajzd-k-f1KWQfKRBurU-24" parent="zwm6TpmZNM_pj51izz4h-1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="" vertex="1">
           <mxGeometry height="40" width="60" x="235" y="690" as="geometry" />
