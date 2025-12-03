@@ -2276,14 +2276,14 @@
             <mxPoint x="439.65999999999997" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4BQaNZXl3SnmbCQOijIz-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="20" width="40" x="240" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="4BQaNZXl3SnmbCQOijIz-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="4BQaNZXl3SnmbCQOijIz-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="20" width="65" x="285" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="4BQaNZXl3SnmbCQOijIz-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="4BQaNZXl3SnmbCQOijIz-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="20" width="65" x="365" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4BQaNZXl3SnmbCQOijIz-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="35" x="240" y="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
