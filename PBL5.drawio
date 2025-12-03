@@ -247,6 +247,18 @@
         <mxCell id="aeuPMW_A4mAUWQ3Hos3_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Perception &amp;amp; control Layer" vertex="1">
           <mxGeometry height="80" width="120" x="120" y="440" as="geometry" />
         </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Open-source smartphone apps" vertex="1">
+          <mxGeometry height="80" width="360" x="280" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="ESP Rainmaker" vertex="1">
+          <mxGeometry height="80" width="360" x="280" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Network protocols: MQTT" vertex="1">
+          <mxGeometry height="30" width="360" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Communication Technology: WIFI, Bluetooth" vertex="1">
+          <mxGeometry height="30" width="360" x="280" y="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
