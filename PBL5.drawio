@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3" pages="3">
   <diagram name="UDP Client" id="ozkKnRUouKXmn6NGIdq9">
     <mxGraphModel dx="1129" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -226,6 +226,26 @@
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="440" y="420" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4IkeUvQkIk7hCws4lPwK" name="Page-3">
+    <mxGraphModel dx="1188" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Application Layer" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Platform Layer" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Network Layer" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Perception &amp;amp; control Layer" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
