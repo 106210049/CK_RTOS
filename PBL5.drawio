@@ -235,31 +235,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Application Layer" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1291D8;" value="Application Layer" vertex="1">
           <mxGeometry height="80" width="120" x="120" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Platform Layer" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1291D8;" value="Platform Layer" vertex="1">
           <mxGeometry height="80" width="120" x="120" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Network Layer" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1291D8;" value="Network Layer" vertex="1">
           <mxGeometry height="80" width="120" x="120" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Perception &amp;amp; control Layer" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#1291D8;" value="Perception &amp;amp; control Layer" vertex="1">
           <mxGeometry height="80" width="120" x="120" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Open-source smartphone apps" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Open-source smartphone apps" vertex="1">
           <mxGeometry height="80" width="360" x="280" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="ESP Rainmaker" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="ESP Rainmaker" vertex="1">
           <mxGeometry height="80" width="360" x="280" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Network protocols: TCP" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Network protocols: TCP" vertex="1">
           <mxGeometry height="30" width="360" x="280" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Communication Technology: WIFI, Bluetooth" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Communication Technology: WIFI, Bluetooth" vertex="1">
           <mxGeometry height="30" width="360" x="280" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" value="Hardware: LED strips, ESP32-C3, Buzzer, Button" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Hardware: LED strips, ESP32-C3, Buzzer, Button" vertex="1">
           <mxGeometry height="80" width="360" x="280" y="440" as="geometry" />
         </mxCell>
       </root>
