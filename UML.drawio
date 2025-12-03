@@ -1592,7 +1592,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zwm6TpmZNM_pj51izz4h-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;User&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1200" width="340" x="39" y="50" as="geometry" />
+          <mxGeometry height="1150" width="340" x="39" y="50" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-2" parent="zwm6TpmZNM_pj51izz4h-1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="&lt;font&gt;Turn on&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="40" y="80" as="geometry" />
@@ -1850,7 +1850,7 @@
           <mxGeometry height="20" width="40" x="285" y="220" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-15" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;System(ESP32-C3)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1200" width="380" x="380" y="50" as="geometry" />
+          <mxGeometry height="1150" width="380" x="380" y="50" as="geometry" />
         </mxCell>
         <mxCell id="zwm6TpmZNM_pj51izz4h-16" parent="zwm6TpmZNM_pj51izz4h-15" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" value="&lt;font&gt;Initialize system&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="60" y="80" as="geometry" />
