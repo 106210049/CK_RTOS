@@ -231,7 +231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4IkeUvQkIk7hCws4lPwK" name="Page-3">
-    <mxGraphModel dx="983" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
         <mxCell id="aeuPMW_A4mAUWQ3Hos3_-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Communication Technology: WIFI, Bluetooth" vertex="1">
           <mxGeometry height="30" width="360" x="280" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Hardware: LED strips, ESP32-C3, Buzzer, Button" vertex="1">
+        <mxCell id="aeuPMW_A4mAUWQ3Hos3_-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#DDF3FE;strokeColor=light-dark(#000000,#54A9CE);" value="Hardware: LED strips, ESP32-C3, Buzzer, Button, Light sensor" vertex="1">
           <mxGeometry height="80" width="360" x="280" y="440" as="geometry" />
         </mxCell>
       </root>
